@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="C:\Users\bk0827\workspace\ProyectoAnt\src\es\upm\miw\spai\ant\Suma.java">
+<error line="4" column="1" severity="error" message="La línea contiene un carácter de tabulación." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="5" column="1" severity="error" message="La línea contiene un carácter de tabulación." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="6" column="1" severity="error" message="La línea contiene un carácter de tabulación." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="8" column="1" severity="error" message="La línea contiene un carácter de tabulación." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="9" column="1" severity="error" message="La línea contiene un carácter de tabulación." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="10" column="1" severity="error" message="La línea contiene un carácter de tabulación." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+</checkstyle>
